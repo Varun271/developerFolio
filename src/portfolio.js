@@ -152,16 +152,16 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
+      role: "Software Developer",
       company: "IBM",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/IBMLOGO.png"),
       date: "May 2021 – Present",
       desc: "Seasoned in software development and SRE, proficient in building resilient systems and optimizing performance for web and mobile applications",
     },
     {
       role: "Software Developer",
       company: "WanBuffer",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/wlogo.png"),
       date: "August 2018 – May 2019",
       desc: "Mastering the art of full-stack development, crafting dynamic web solutions from end to end."
     },
